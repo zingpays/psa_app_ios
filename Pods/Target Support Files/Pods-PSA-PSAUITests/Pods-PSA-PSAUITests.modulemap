@@ -1,0 +1,6 @@
+framework module Pods_PSA_PSAUITests {
+  umbrella header "Pods-PSA-PSAUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
